@@ -1,0 +1,29 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Restaurant App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphwright/burger.git"
+  },
+  "author": "Grace Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphwright/burger/issues"
+  },
+  "homepage": "https://github.com/ralphwright/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  },
+  "engines": {
+    "node": "8.8.0"
+  }
+}
